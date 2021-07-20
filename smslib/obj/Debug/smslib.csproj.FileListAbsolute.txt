@@ -1,0 +1,8 @@
+E:\repos\smslib\smslib\bin\Debug\smslib.dll
+E:\repos\smslib\smslib\bin\Debug\smslib.pdb
+E:\repos\smslib\smslib\bin\Debug\Newtonsoft.Json.dll
+E:\repos\smslib\smslib\bin\Debug\Newtonsoft.Json.xml
+E:\repos\smslib\smslib\obj\Debug\smslib.csproj.CoreCompileInputs.cache
+E:\repos\smslib\smslib\obj\Debug\smslib.csproj.CopyComplete
+E:\repos\smslib\smslib\obj\Debug\smslib.dll
+E:\repos\smslib\smslib\obj\Debug\smslib.pdb
